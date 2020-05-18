@@ -1,1 +1,2 @@
-# Hackindore-1.0-Mess-Management-System-
+# Mess-managing
+This repository is regarding the mess managing system.
